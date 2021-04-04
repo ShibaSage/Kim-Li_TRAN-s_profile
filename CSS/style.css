@@ -5,6 +5,7 @@
 	background-image: url(https://www.gensh.in/wallpaper/genshin/genshin_12_4K.jpg);
 	background-size: cover;
 	background-position: center
+        max-width: 100%
 }
 .paragraph-square{
 
