@@ -41,6 +41,10 @@ letter-spacing: 2px
 	margin:15px 415px;
 	  
 }
+.profile_picture> img{
+
+max-width: 100%;
+}
 
 #Lumine{
 
