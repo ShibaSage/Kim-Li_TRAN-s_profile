@@ -1,0 +1,114 @@
+
+.general-background{
+	margin : 0px;
+	padding : 50px;
+	background-image: url(https://www.gensh.in/wallpaper/genshin/genshin_12_4K.jpg);
+	background-size: cover;
+	background-position: center
+}
+.paragraph-square{
+
+	background: rgba(255,255,255,0.5);                         
+	padding: 20px 25px;                             
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);   
+	margin : 30px 150px; 
+
+}
+
+#Welcome_to-my_profile{
+
+	font-family: "Galada", cursive;
+	font-weight: bold;
+	background: rgba(0,0,0,0.5);
+	background: -webkit-linear-gradient(#7ec3ff, #dcadff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+   -webkit-text-stroke: 1px;
+-webkit-text-stroke-color: rgba(28,108,255,0.45);
+  font-size: 38px;
+letter-spacing: 2px
+
+}
+.profile_picture{
+
+	background: rgba(255,255,255,0.5);
+	padding : 10px;
+	border-radius: 5px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	margin:15px 415px;
+	  
+}
+
+#Lumine{
+
+margin : 35px 0px 20px 0px;
+	border-radius: 50%;
+}
+h2, h3{
+
+	font-family: 'Merienda', cursive;
+	font-weight: bold;
+	/*font-family: 'Train One', cursive;*/
+
+/*-webkit-text-stroke-color: rgba(195,36,255,0.45);*/
+}
+h2{
+	margin : 0px 400px;
+		background: -webkit-linear-gradient(#c324ff, #7ec3ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3)
+}
+h3{
+	background: -webkit-linear-gradient(#c324ff, #206bff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3)
+}
+
+p{
+
+	font-family: 'Kalam', cursive;
+	font-weight: bold;
+}
+
+ul{
+	list-style: none;
+  padding-left: 0px;
+}
+ul> li {
+  display: inline; 
+  padding: 0px 20px;
+}
+
+.Genshin_banner{
+
+	background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://static.hitek.fr/img/actualite/ill_m/112365120/149285.jpg);
+	background-size: cover;
+	background-position: center;
+	margin : 30px 150px;
+}
+.Genshin_banner h4{
+
+	color: white;
+	font-family: 'Kalam', cursive;
+
+}
+.Genshin_banner a{
+
+	text-decoration: none;
+	margin-left: 900px;
+	padding : 15px;
+	background: -webkit-linear-gradient(#ffc01c, #b29c20);
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size : 16px;
+	color: black;
+}
+.Genshin_banner p{
+
+	color: white;
+	margin : 10px 5px;
+}
