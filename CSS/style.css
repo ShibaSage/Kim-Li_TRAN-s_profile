@@ -37,9 +37,20 @@ letter-spacing: 2px
 	background: rgba(255,255,255,0.5);
 	padding : 10px;
 	border-radius: 5px;
-	box-shadow: 0 10px 30px rgba(0,0,0,.1);
-	margin:15px 415px;
-	  
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);	 
+}
+@media (min-width: 1000px){
+.profile_picture{
+margin:15px 415px;
+}
+@media (min-width: 541px){
+.profile_picture{
+margin:15px 215px;
+}
+@media (max-width: 540px){
+.profile_picture{
+	margin:15px 30px;
+}
 }
 .profile_picture> img{
 
