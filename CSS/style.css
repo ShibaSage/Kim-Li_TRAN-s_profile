@@ -38,7 +38,7 @@ letter-spacing: 2px
 	padding : 10px;
 	border-radius: 5px;
 	box-shadow: 0 10px 30px rgba(0,0,0,.1);
-	margin:15px 415px;
+	margin:15px 150px;
 	  
 }
 .profile_picture> img{
@@ -61,7 +61,6 @@ h2, h3{
 /*-webkit-text-stroke-color: rgba(195,36,255,0.45);*/
 }
 h2{
-	margin : 0px 400px;
 		background: -webkit-linear-gradient(#c324ff, #7ec3ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
